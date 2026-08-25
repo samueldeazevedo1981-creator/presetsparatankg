@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
-<defs><radialGradient id="g"><stop stop-color="#11351e"/><stop offset="1" stop-color="#050807"/></radialGradient><filter id="glow"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
-<rect width="400" height="300" rx="28" fill="url(#g)"/><circle cx="200" cy="148" r="122" fill="none" stroke="#153e24" stroke-width="2"/>
-<g filter="url(#glow)"><rect x="117" y="58" width="166" height="190" rx="21" fill="#0b120d" stroke="#42ff91" stroke-width="3"/><circle cx="157" cy="104" r="12" fill="#1c2d22" stroke="#92ffbc"/><circle cx="200" cy="104" r="12" fill="#1c2d22" stroke="#92ffbc"/><circle cx="243" cy="104" r="12" fill="#1c2d22" stroke="#92ffbc"/><rect x="139" y="139" width="122" height="42" rx="8" fill="#0f1f15" stroke="#2b6b43"/><circle cx="200" cy="214" r="19" fill="#161f19" stroke="#cbd5cf" stroke-width="4"/></g>
-<text x="200" y="274" text-anchor="middle" fill="#f2f7f4" font-family="Arial, sans-serif" font-size="18" font-weight="700">Tube Screamer TS9</text>
-</svg>
