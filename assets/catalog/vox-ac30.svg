@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+<defs><radialGradient id="g"><stop stop-color="#11351e"/><stop offset="1" stop-color="#050807"/></radialGradient><filter id="glow"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect width="400" height="300" rx="28" fill="url(#g)"/><circle cx="200" cy="148" r="122" fill="none" stroke="#153e24" stroke-width="2"/>
+<g filter="url(#glow)"><rect x="58" y="78" width="284" height="144" rx="16" fill="#0b120d" stroke="#42ff91" stroke-width="3"/><rect x="76" y="98" width="248" height="35" rx="7" fill="#101b13" stroke="#2b6b43"/><circle cx="106" cy="115" r="7" fill="#42ff91"/><circle cx="136" cy="115" r="7" fill="#b0bab4"/><circle cx="166" cy="115" r="7" fill="#b0bab4"/><circle cx="196" cy="115" r="7" fill="#b0bab4"/><rect x="76" y="149" width="248" height="54" rx="5" fill="#080d0a" stroke="#273b2d"/><path d="M83 156L317 196M83 196L317 156" stroke="#1c2d22" stroke-width="2" opacity=".7"/></g>
+<text x="200" y="274" text-anchor="middle" fill="#f2f7f4" font-family="Arial, sans-serif" font-size="18" font-weight="700">Vox AC-30</text>
+</svg>
